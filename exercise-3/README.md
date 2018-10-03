@@ -1,4 +1,5 @@
 # Exercise 3
+Hello world.
 
 Learn the basics of git workflow:
 
